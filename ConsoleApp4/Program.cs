@@ -28,7 +28,7 @@ namespace homework
                 Console.WriteLine($"Покупка на сумму {_pay} не предоставляет скидки!");
 
 
-            //Task2
+            //Task3
 
             // int A = 5;
             // int B = 20;
@@ -61,7 +61,7 @@ namespace homework
                     Console.WriteLine("Наименьшее Число: " + D);
                 }
 
-                //Task # 3
+                //Task # 4
                 int a = int.Parse(Console.ReadLine());
                 int b = int.Parse(Console.ReadLine());
                 int c = int.Parse(Console.ReadLine());
